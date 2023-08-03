@@ -45,5 +45,5 @@ let randomElement = messageArray[Math.floor(Math.random() * messageArray.length)
 
 function displayMessage(){
 
-    document.getElementById('message').innerHTML = randomElement
+    document.getElementById('message').innerHTML = randomElement + 'test'
 }
