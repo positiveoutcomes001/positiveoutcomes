@@ -1,9 +1,9 @@
 //Statements 
 
 var empathyBeforeJudgement = "Empathy before judgement. "
-var loveIsOutThere = "Love is out there. "
+var loveIsOutThere = "Love is out there, so you need to go out there. "
 var asLongAsWeHaveEachOther = "As long as we have each other, hope is never gone."
-var acknowledgementFocus = "Acknowledge everything but focus on what you can control. "
+var focus = "Focus on what you can control. "
 var allWeHaveIsEachOther = "When all is said and done, all we really have is each other."
 var somethingToGive = "You have something to contribute to the universe. " 
 var beNiceToYourself = "The world will not always be kind to you. So be kind to yourself. "
@@ -11,6 +11,7 @@ var trustBeauty = "Trust the beauty of the universe. "
 var consumedByAnger ="We cannot allow ourselves to be consumed by anger and despair."
 var progressBeginsWithTruth ="All progress begins with truth. "
 var wellDoneForBeingAPerson ="Well done! Simply for being a person… it is not always easy."
+var pastSelf = "Accept and forgive your past self."
 
 
 //Questions 
@@ -30,7 +31,7 @@ var doSomethingHealthy ="Challenge: do something healthy. "
 
 
 var messageArray = [empathyBeforeJudgement, loveIsOutThere, asLongAsWeHaveEachOther,
-    acknowledgementFocus, allWeHaveIsEachOther, somethingToGive, 
+    focus, allWeHaveIsEachOther, somethingToGive, 
 beNiceToYourself,trustBeauty,consumedByAnger, progressBeginsWithTruth, 
 wellDoneForBeingAPerson, painCausesUsToLashOut,patienceDisiciplineConfidence, 
 createHappiness, doSomethingNice,doSomethingBrave,doSomethingHealthy,learnSomethingNew,
