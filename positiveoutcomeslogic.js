@@ -12,6 +12,11 @@ var consumedByAnger ="We cannot allow ourselves to be consumed by anger and desp
 var progressBeginsWithTruth ="All progress begins with truth. "
 var wellDoneForBeingAPerson ="Well done! Simply for being a person… it is not always easy."
 var pastSelf = "Accept and forgive your past self."
+var showUp = "Show up and give yourself a chance to make things better."
+var neverPerfect = "Never perfect but always committed to being better."
+var allBadThings = "All bad things will come to an end."
+var spreadLove = "Spread love."
+var lostGain = "Focus not on what you have lost but on what you could still gain."
 
 
 //Questions 
