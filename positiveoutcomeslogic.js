@@ -17,7 +17,9 @@ var neverPerfect = "Never perfect but always committed to being better."
 var allBadThings = "All bad things will come to an end."
 var spreadLove = "Spread love."
 var lostGain = "Focus not on what you have lost but on what you could still gain."
-
+var considerOthers = "Always consider others."
+var victoryDefeat = "Do not allow yourself to be defeated by your own victories."
+var successFailure = "Success does not make you better than anyone else in the same way failure does not make you worse than anyone else. "
 
 //Questions 
 
@@ -40,7 +42,9 @@ var messageArray = [empathyBeforeJudgement, loveIsOutThere, asLongAsWeHaveEachOt
 beNiceToYourself,trustBeauty,consumedByAnger, progressBeginsWithTruth, 
 wellDoneForBeingAPerson, painCausesUsToLashOut,patienceDisiciplineConfidence, 
 createHappiness, doSomethingNice,doSomethingBrave,doSomethingHealthy,learnSomethingNew,
-makeSomeoneHappy]
+makeSomeoneHappy, spreadLove,neverPerfect,pastSelf,showUp,allBadThings,lostGain,considerOthers, 
+victoryDefeat, successFailure
+]
 
 
 //Function 
