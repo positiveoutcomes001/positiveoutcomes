@@ -36,6 +36,9 @@ var makeSomeoneHappy ="Challenge: do something to make someone happy."
 var learnSomethingNew ="Challenge: learn something new. "
 var doSomethingHealthy ="Challenge: do something healthy. "
 
+//Facts
+var eighty = "Fact: There are 10,080 minutes in a week. Would you be willing to spare 80 of them for a good cause or someone in need?"
+
 
 var messageArray = [empathyBeforeJudgement, loveIsOutThere, asLongAsWeHaveEachOther,
     focus, allWeHaveIsEachOther, somethingToGive, 
@@ -43,7 +46,7 @@ beNiceToYourself,trustBeauty,consumedByAnger, progressBeginsWithTruth,
 wellDoneForBeingAPerson, painCausesUsToLashOut,patienceDisiciplineConfidence, 
 createHappiness, doSomethingNice,doSomethingBrave,doSomethingHealthy,learnSomethingNew,
 makeSomeoneHappy, spreadLove,neverPerfect,pastSelf,showUp,allBadThings,lostGain,considerOthers, 
-victoryDefeat, successFailure
+victoryDefeat, successFailure, eighty
 ]
 
 
