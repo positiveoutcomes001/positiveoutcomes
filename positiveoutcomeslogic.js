@@ -23,6 +23,7 @@ var successFailure = "Success does not make you better than anyone else in the s
 var investIdeas = "Invest in your ideas."
 var kindStrength = "All truly strong people are kind."
 var patientUnderstanding = "Understanding and patience in all things. " 
+var deserveGood = "You deserve good things."
 
 //Questions 
 
