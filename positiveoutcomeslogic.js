@@ -20,6 +20,9 @@ var lostGain = "Focus not on what you have lost but on what you could still gain
 var considerOthers = "Always consider others."
 var victoryDefeat = "Do not allow yourself to be defeated by your own victories."
 var successFailure = "Success does not make you better than anyone else in the same way failure does not make you worse than anyone else. "
+var investIdeas = "Invest in your ideas."
+var kindStrength = "All truly strong people are kind."
+var patientUnderstanding = "Understanding and patience in all things. " 
 
 //Questions 
 
@@ -46,7 +49,7 @@ beNiceToYourself,trustBeauty,consumedByAnger, progressBeginsWithTruth,
 wellDoneForBeingAPerson, painCausesUsToLashOut,patienceDisiciplineConfidence, 
 createHappiness, doSomethingNice,doSomethingBrave,doSomethingHealthy,learnSomethingNew,
 makeSomeoneHappy, spreadLove,neverPerfect,pastSelf,showUp,allBadThings,lostGain,considerOthers, 
-victoryDefeat, successFailure, eighty
+victoryDefeat, successFailure, eighty, investIdeas, kindStrength, patientUnderstanding
 ]
 
 
